@@ -1,3 +1,5 @@
+//Credit to Emily Tarlowe
+
 int r;
 int g;
 int b;
